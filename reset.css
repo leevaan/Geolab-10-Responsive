@@ -68,10 +68,9 @@ table {
 }
 a{
     text-decoration: none;
+    background-color: transparent;
 }
-a:focus{
-    background: none;
-}
+
 *{
     box-sizing: border-box;
 	outline: none;
