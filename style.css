@@ -147,7 +147,9 @@ footer{
     display: none;
 }
 .find-logo{
-    display: inline-block;
+    display: inline;
+    width: 20px;
+    height: 20px;
     }
 .nav-2{
     display: flex;
@@ -180,7 +182,9 @@ footer{
     display: block;
     }
 .nav-li{
-        padding: 0;
+    display: block;
+        margin: 0;
+        /* padding: 0; */
     }
 .nav {
         align-items:initial;
