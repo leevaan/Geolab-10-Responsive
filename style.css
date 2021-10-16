@@ -1,6 +1,4 @@
-a{
-    background-color: black;
-}
+
 .container{
     padding: 2.5% 5%;
     max-width: 1800px;
@@ -201,6 +199,9 @@ footer{
     }
 .nav-2{
     width: 100%;
+    }
+    a{
+        background-color: black;
     }
   }
 }
