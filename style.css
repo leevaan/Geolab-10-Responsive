@@ -131,6 +131,9 @@ footer{
 .nav-2 ul li:hover{
     background-color:  rgb(255, 255, 255);
     }
+    a{
+        background-color: black;
+    }
             /* R E S P O N S I V E                   */
 
  @media (max-width:1515px) {
@@ -199,9 +202,6 @@ footer{
     }
 .nav-2{
     width: 100%;
-    }
-    a{
-        background-color: black;
     }
   }
 }
