@@ -139,10 +139,11 @@ footer{
     }
 .box:last-child{
         margin:0 auto;
+        width: 752.955px;
     }
   
     }
- @media (max-width:730px){
+ @media (max-width:835px){
     nav{
     display: none;
 }
