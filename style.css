@@ -132,7 +132,7 @@ footer{
     background-color:  rgb(255, 255, 255);
     }
     a:active{
-        background-color: black;
+        background-color: transparent;
     }
             /* R E S P O N S I V E                   */
 
