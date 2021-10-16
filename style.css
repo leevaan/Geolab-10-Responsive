@@ -131,7 +131,7 @@ footer{
 .nav-2 ul li:hover{
     background-color:  rgb(255, 255, 255);
     }
-    a{
+    a:active{
         background-color: black;
     }
             /* R E S P O N S I V E                   */
