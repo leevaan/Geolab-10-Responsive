@@ -94,6 +94,9 @@ footer{
 .foot a{
     color:rgb(202, 200, 200);
 }
+.ul-contact{
+    text-align: center;
+}
 .contact-li{
     text-decoration: underline;
     margin-bottom: 6px;
