@@ -1,9 +1,12 @@
 a:active{
     background-color: black;
 }
+<<<<<<< HEAD
 a{
     background-color:transparent;
 }
+=======
+>>>>>>> 51f75ae98c4c7a2f636e2959594c4b8b013fa1b7
 .container{
     padding: 2.5% 5%;
     max-width: 1800px;
